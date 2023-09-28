@@ -1,3 +1,2 @@
 #!/bin/bash
-cd buildroot
-make disclean
+make buildroot/ distclean
